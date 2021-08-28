@@ -117,7 +117,7 @@ function draw() {
     text("Mushroom Overdose",width/2,150);
     textSize(22);
     text("A game by Alexis Andre",width/2,height-100);
-    text("imposs.ible.jp - alexisandre.com",width/2,height-60);
+    text("xog.jp - alexisandre.com",width/2,height-60);
   } else if(mode==3){
     background(0);
     fill(255);
@@ -128,7 +128,7 @@ function draw() {
     textSize(22);
     text("Press r to restart",width/2,height-160);
     text("A game by Alexis Andre",width/2,height-100);
-    text("imposs.ible.jp - alexisandre.com",width/2,height-60);
+    text("xog.jp - alexisandre.com",width/2,height-60);
   }else {
 
   let now= millis();
